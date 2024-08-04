@@ -9,5 +9,8 @@ by [Klaus Wuestefeld](https://github.com/klauswuestefeld)
 
 The central problem with "Semantic Versioning" is that [it allows for breaking changes](https://stackoverflow.com/questions/41185023/what-exactly-is-considered-a-breaking-change-to-a-library-crate) in software artifacts, such as libraries, that are relied upon by countless other projects.
 
+[!["Vector Illustration of House of Playing Cards Built on Shaky Foundation About to Collapse" Designed by Wannapik](/assets/sanever/castle-of-cards.png)](https://www.wannapik.com/vectors/18642)
+
+...
 
 
